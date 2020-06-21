@@ -1,2 +1,2 @@
-# freet
-freet
+# Freet
+Freet
